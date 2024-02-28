@@ -453,19 +453,19 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | [top](#people--body) | :couplekiss_man_man: | `:couplekiss_man_man:` | :couplekiss_woman_woman: | `:couplekiss_woman_woman:` | [top](#table-of-contents) |
 | [top](#people--body) | :couple_with_heart: | `:couple_with_heart:` | :couple_with_heart_woman_man: | `:couple_with_heart_woman_man:` | [top](#table-of-contents) |
 | [top](#people--body) | :couple_with_heart_man_man: | `:couple_with_heart_man_man:` | :couple_with_heart_woman_woman: | `:couple_with_heart_woman_woman:` | [top](#table-of-contents) |
-| [top](#people--body) | :family: | `:family:` | :family_man_woman_boy: | `:family_man_woman_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_woman_girl: | `:family_man_woman_girl:` | :family_man_woman_girl_boy: | `:family_man_woman_girl_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_woman_boy_boy: | `:family_man_woman_boy_boy:` | :family_man_woman_girl_girl: | `:family_man_woman_girl_girl:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_man_boy: | `:family_man_man_boy:` | :family_man_man_girl: | `:family_man_man_girl:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_man_girl_boy: | `:family_man_man_girl_boy:` | :family_man_man_boy_boy: | `:family_man_man_boy_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_man_girl_girl: | `:family_man_man_girl_girl:` | :family_woman_woman_boy: | `:family_woman_woman_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_woman_woman_girl: | `:family_woman_woman_girl:` | :family_woman_woman_girl_boy: | `:family_woman_woman_girl_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_woman_woman_boy_boy: | `:family_woman_woman_boy_boy:` | :family_woman_woman_girl_girl: | `:family_woman_woman_girl_girl:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_boy: | `:family_man_boy:` | :family_man_boy_boy: | `:family_man_boy_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_girl: | `:family_man_girl:` | :family_man_girl_boy: | `:family_man_girl_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_man_girl_girl: | `:family_man_girl_girl:` | :family_woman_boy: | `:family_woman_boy:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_woman_boy_boy: | `:family_woman_boy_boy:` | :family_woman_girl: | `:family_woman_girl:` | [top](#table-of-contents) |
-| [top](#people--body) | :family_woman_girl_boy: | `:family_woman_girl_boy:` | :family_woman_girl_girl: | `:family_woman_girl_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_woman_boy: | `:family_man_woman_boy:` | :family_man_woman_girl: | `:family_man_woman_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_woman_girl_boy: | `:family_man_woman_girl_boy:` | :family_man_woman_boy_boy: | `:family_man_woman_boy_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_woman_girl_girl: | `:family_man_woman_girl_girl:` | :family_man_man_boy: | `:family_man_man_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_man_girl: | `:family_man_man_girl:` | :family_man_man_girl_boy: | `:family_man_man_girl_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_man_boy_boy: | `:family_man_man_boy_boy:` | :family_man_man_girl_girl: | `:family_man_man_girl_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_woman_boy: | `:family_woman_woman_boy:` | :family_woman_woman_girl: | `:family_woman_woman_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_woman_girl_boy: | `:family_woman_woman_girl_boy:` | :family_woman_woman_boy_boy: | `:family_woman_woman_boy_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_woman_girl_girl: | `:family_woman_woman_girl_girl:` | :family_man_boy: | `:family_man_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_boy_boy: | `:family_man_boy_boy:` | :family_man_girl: | `:family_man_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_man_girl_boy: | `:family_man_girl_boy:` | :family_man_girl_girl: | `:family_man_girl_girl:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_boy: | `:family_woman_boy:` | :family_woman_boy_boy: | `:family_woman_boy_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_girl: | `:family_woman_girl:` | :family_woman_girl_boy: | `:family_woman_girl_boy:` | [top](#table-of-contents) |
+| [top](#people--body) | :family_woman_girl_girl: | `:family_woman_girl_girl:` | | | [top](#table-of-contents) |
 
 #### Person Symbol
 
@@ -473,7 +473,7 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 | - | :-: | - | :-: | - | - |
 | [top](#people--body) | :speaking_head: | `:speaking_head:` | :bust_in_silhouette: | `:bust_in_silhouette:` | [top](#table-of-contents) |
 | [top](#people--body) | :busts_in_silhouette: | `:busts_in_silhouette:` | :people_hugging: | `:people_hugging:` | [top](#table-of-contents) |
-| [top](#people--body) | :footprints: | `:footprints:` | | | [top](#table-of-contents) |
+| [top](#people--body) | :family: | `:family:` | :footprints: | `:footprints:` | [top](#table-of-contents) |
 
 ### Animals & Nature
 
@@ -1576,14 +1576,15 @@ This cheat sheet is automatically generated from [GitHub Emoji API](https://api.
 
 | | ico | shortcode | ico | shortcode | |
 | - | :-: | - | :-: | - | - |
-| [top](#github-custom-emoji) | :atom: | `:atom:` | :basecamp: | `:basecamp:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :basecampy: | `:basecampy:` | :bowtie: | `:bowtie:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :accessibility: | `:accessibility:` | :atom: | `:atom:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :basecamp: | `:basecamp:` | :basecampy: | `:basecampy:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :bowtie: | `:bowtie:` | :dependabot: | `:dependabot:` | [top](#table-of-contents) |
 | [top](#github-custom-emoji) | :electron: | `:electron:` | :feelsgood: | `:feelsgood:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :finnadie: | `:finnadie:` | :goberserk: | `:goberserk:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :godmode: | `:godmode:` | :hurtrealbad: | `:hurtrealbad:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :neckbeard: | `:neckbeard:` | :octocat: | `:octocat:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :rage1: | `:rage1:` | :rage2: | `:rage2:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :rage3: | `:rage3:` | :rage4: | `:rage4:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :shipit: | `:shipit:` | :suspect: | `:suspect:` | [top](#table-of-contents) |
-| [top](#github-custom-emoji) | :trollface: | `:trollface:` | | | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :finnadie: | `:finnadie:` | :fishsticks: | `:fishsticks:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :goberserk: | `:goberserk:` | :godmode: | `:godmode:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :hurtrealbad: | `:hurtrealbad:` | :neckbeard: | `:neckbeard:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :octocat: | `:octocat:` | :rage1: | `:rage1:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :rage2: | `:rage2:` | :rage3: | `:rage3:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :rage4: | `:rage4:` | :shipit: | `:shipit:` | [top](#table-of-contents) |
+| [top](#github-custom-emoji) | :suspect: | `:suspect:` | :trollface: | `:trollface:` | [top](#table-of-contents) |
 
